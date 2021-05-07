@@ -6,6 +6,10 @@ Arquivo de verificação dos servidores Linux.
 
 Baixe o arquivo acima: verificar-servidor.sh
 
+git clone https://github.com/agenteph/verificar-servidor
+
+cd verificar-servidor
+
 * Dê permissão de execução
 
  chmod +x verificar-servidor.sh
